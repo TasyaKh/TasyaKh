@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi there, I'm Taisia
+<!--<h1 align="center">Hi there, I'm Taisia
+-->
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div id="header" align="center">
