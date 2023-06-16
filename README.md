@@ -1,8 +1,7 @@
 
 <!--<h1 align="center">Hi there, I'm Taisia
--->
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+-->
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/31/a2/c0/31a2c0818ed0ca0e8215d4a2cbf67542.gif" width="180"/>
 </div>
