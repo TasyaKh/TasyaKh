@@ -5,7 +5,7 @@
 
 <h2 style="color:red;">About me</h2>
 
-I’m a student and currently learning **react** <img width="30px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
+I’m currently thinking what new technology i should learn... (php, angular...)
 
 **strengths** - web development (frontend/backend)
 
