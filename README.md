@@ -3,8 +3,8 @@
 </div>
 
 <h2 style="color:red;">About me</h2>
-Second profile (open sources): https://github.com/AkitaSp
-
+Second profile (open sources): 
+https://github.com/AkitaSp 
 
 I’m currently thinking what new technology i should learn... (php, angular...)
 
