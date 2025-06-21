@@ -6,7 +6,7 @@
 Second profile (open sources): 
 https://github.com/AkitaSp 
 
-I’m currently thinking what new technology i should learn... (php, angular...)
+I’m currently thinking what new technology i should learn...
 
 **strengths** - web development (frontend/backend)
 
