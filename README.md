@@ -36,9 +36,3 @@ https://github.com/AkitaSp
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TasyaKh&theme=monokai)
 
 <hr/>
-
-<!---Для компактной версии Top Langs [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasyaKh&layout=compact&theme=monokai)](https://github.com/TasyaKh/github-readme-stats)
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TasyaKh&title=Commits,PullRequest,Repositories&theme=onedark)](https://github.com/TasyaKh/github-profile-trophy)
-
